@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Voodo-People
+- 👋 Hi, I’m @Voodo-Man
 - 👀 I’m interested in web programming and Ethical Hacking
 - 🌱 I’m currently learning Django Framework
 - ⚡ Fun fact: i can: sleep, drink coffe, programming and repeat it
